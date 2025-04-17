@@ -8,7 +8,7 @@ Unity стал для меня не просто инструментом, а с
 
 ### 🧠 Навыки
 
-#### 💻 Technical Skills
+#### 💻 Technical Skills:
 
 - **Языки:** C#
 - **Движок:** Unity (2D, 3D, DOTS/ECS)
@@ -17,7 +17,7 @@ Unity стал для меня не просто инструментом, а с
 - **Технологии и подходы:**  
   ScriptableObject, DOTween, Unity UI, Animator, ParticleSystem, Object Pooling, Entity Component System (ECS), Observer, Singleton
 
-#### 🤝 Soft skills
+#### 🤝 Soft skills:
 
 - Командная работа  
 - Коммуникабельность  
