@@ -26,7 +26,7 @@ Unity стал для меня не просто инструментом, а с
 
 ---
 
-#### 📌 Мои проекты:
+#### 📌 Мои проекты(описание и демонстрация внутри 👇):
 - [Run Girl (Jetpack Joyride Clone)](https://github.com/SweetJS64/unity-run-girl)  
 - [Tower Defense Core на ECS](https://github.com/SweetJS64/untity-td-core)  
 - [Game Jam: Brackeys 2025.1](https://itch.io/jam/brackeys-13/rate/3349683)
