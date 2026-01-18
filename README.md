@@ -40,7 +40,7 @@ Unity стал для меня не просто инструментом, а с
 
 ---
 
-#### 📌 Мои проекты(описание и демонстрация внутри 👇):
+#### 📌 Мои проекты:
 - [FlappyBird (Zenject, UniRX, MVVM)](https://github.com/SweetJS64/unity-flappy-bird)
 - [Run Girl (Jetpack Joyride Clone)](https://github.com/SweetJS64/unity-run-girl)  
 - [Tower Defense Core на ECS](https://github.com/SweetJS64/untity-td-core)  
