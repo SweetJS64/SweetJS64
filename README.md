@@ -41,7 +41,7 @@ Unity стал для меня не просто инструментом, а с
 ---
 
 #### 📌 Мои проекты:
-- [FlappyBird (Zenject, UniRX, MVVM)](https://github.com/SweetJS64/unity-flappy-bird)
+- [FlappyBird (Zenject, UniRX, MVVM, YandexSDK)](https://github.com/SweetJS64/unity-flappy-bird)
 - [Run Girl (Jetpack Joyride Clone)](https://github.com/SweetJS64/unity-run-girl)  
 - [Tower Defense Core на ECS](https://github.com/SweetJS64/untity-td-core)  
 - [Game Jam: Brackeys 2025.1](https://itch.io/jam/brackeys-13/rate/3349683)
