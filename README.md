@@ -51,7 +51,7 @@ Unity стал для меня не просто инструментом, а с
 #### 📬 Контакты:
 
 - Email: sweetjs164@gmail.com  
-- Telegram: [@SweetJS64](https://t.me/SweetJS64)  
+- Telegram: [@SweetJS](https://t.me/SweetJS)  
 - Телефон: +7 (906) 312-70-73
 
 ---
