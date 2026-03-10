@@ -22,7 +22,7 @@
 
 **Анимации:** Animator Controller · 3D / 2D анимации · callbacks
 
-**Другое:** Unity DOTS / ECS · Burst Compiler · Physics 2D · Scene Management · Android & WebGL Build · PlayerPrefs · Git (ветки, merge, code review) · Kanban (Trello/Jira на TD-проекте) · Scrum-подобный флоу (спринты с ментором, геймджем)
+**Другое:** Unity DOTS / ECS · Burst Compiler · Physics 3D / 2D · Animator Controller · 3D / 2D анимации(callbacks) · Scene Management · Android & WebGL Build · PlayerPrefs · Git (ветки, merge, code review) · Kanban (Trello на TD-проекте) · Scrum-подобный флоу (спринты с ментором, геймджем)
 
 ---
 
