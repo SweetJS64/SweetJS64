@@ -12,7 +12,7 @@
 | 🏃 | [Lane Switch](https://sweetjs64.itch.io/running-sweetjs) · [GitHub](https://github.com/SweetJS64/unity-lane-switch) - 3D Playable Ad | `WebGL` `Object Pool` `State Machine` |
 | 👧 | [Run Girl](https://github.com/SweetJS64/unity-run-girl) - 2D бесконечный раннер | `Observer` `Object Pool` `Physics 2D` |
 | 🗼 | [Tower Defense Core](https://github.com/SweetJS64/untity-td-core) - Tower Defense | `Unity DOTS/ECS` `Burst Compiler` `VFX Graph` |
-| 🎮 | [Game Jam: Brackeys 2025.1](https://itch.io/jam/brackeys-13/rate/3349683) - 2D-рыбалка | командный проект, 7 дней |
+| 🎮 | [Game Jam: Brackeys 2025.1](https://itch.io/jam/brackeys-13/rate/3349683) - 2D-рыбалка |  командный проект, 7 дней |
 
 ---
 
