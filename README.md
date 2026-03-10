@@ -20,7 +20,7 @@
 
 **Архитектура:** MVC/MVP/MVVM · Dependency Injection · Object Pool · Observer (static events) · SignalBus · State Machine · Abstract Factory · ООП · SOLID
 
-**Анимации:** Animator Controller · скелетные 3D-анимации · спрайтовые 2D-анимации · Coroutines для анимационных колбэков
+**Анимации:** Animator Controller · 3D / 2D анимации · callbacks
 
 **Другое:** Unity DOTS / ECS · Burst Compiler · Physics 2D · Scene Management · Android & WebGL Build · PlayerPrefs · Git (ветки, merge, code review) · Kanban (Trello/Jira на TD-проекте) · Scrum-подобный флоу (спринты с ментором, геймджем)
 
