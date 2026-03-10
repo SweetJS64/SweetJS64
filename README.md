@@ -18,7 +18,7 @@
 
 **Инструменты:** Unity (2D/3D) · C# · Zenject · UniRx · DOTween · ScriptableObject · Unity UI / TMP · Shader Graph · VFX Graph · Particle System · AudioSource / AudioMixer · Yandex Games SDK
 
-**Архитектура:** MVC/MVP/MVVM · Dependency Injection · Object Pool · Observer (static events) · SignalBus · State Machine · Abstract Factory · ООП · SOLID
+**Архитектура:** MVC / MVP / MVVM · Dependency Injection · Object Pool · Observer (static events) · SignalBus · State Machine · Abstract Factory · ООП · SOLID
 
 **Анимации:** Animator Controller · 3D / 2D анимации · callbacks
 
