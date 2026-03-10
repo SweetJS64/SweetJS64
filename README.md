@@ -6,32 +6,13 @@
 
 ### 🚀 Проекты
 
-**[🐦 Flappy Bird](https://github.com/SweetJS64/unity-flappy-bird)** - 2D-аркада, архитектурное демо
-`Unity 6` `Zenject` `UniRx` `MVVM` `Object Pool` `Yandex Ads SDK`
-Проект под тестовые задания - показывает Zenject (DI + SignalBus), реактивный UI через UniRx, систему скинов с экономикой. Чистая трёхслойная архитектура: Core / Infrastructure / Presentation.
-
----
-
-**[🏃 Lane Switch](https://sweetjs64.itch.io/running-sweetjs) · [GitHub](https://github.com/SweetJS64/unity-lane-switch)** - 3D Playable Ad
-`Unity 2022.3` `WebGL` `Object Pool` `State Machine` `ScriptableObject`
-Интерактивный рекламный креатив: раннер с боссом, win/lose экранами и кнопкой Install. Без внешних зависимостей - оптимизирован под размер WebGL-билда.
-
----
-
-**[👧 Run Girl](https://github.com/SweetJS64/unity-run-girl)** - 2D бесконечный раннер (Jetpack Joyride Clone)
-`Unity 2022.2` `Observer` `Object Pool` `ScriptableObject` `Physics 2D`
-Event-driven архитектура на `static event Action` - одно событие останавливает все системы без прямых зависимостей. Параллакс через UV-сдвиг материала, адаптация под любой aspect ratio через единый `BordersData`, нарастающая сложность с нелинейной кривой.
-
----
-
-**[🗼 Tower Defense Core](https://github.com/SweetJS64/untity-td-core)** - Tower Defense на Unity DOTS/ECS
-`Unity 2022.3` `DOTS / Entities 1.0` `Burst Compiler` `VFX Graph` `ShaderGraph`
-Data-Oriented архитектура вместо привычного OOP. Двусторонний мост MonoBehaviour <=> ECS для UI, полиморфная система эффектов через ScriptableObject (добавление нового эффекта без правки существующих систем), стакание эффектов горения с приоритизацией. Разработка в ветках с code review у ментора.
-
----
-
-**[🎮 Game Jam: Brackeys 2025.1](https://itch.io/jam/brackeys-13/rate/3349683)** - 2D-рыбалка
-Командный проект (3 разработчика + 2D-артист), 7 дней. Реализовал всю звуковую часть: SFX (звук поплавка, поклёвки и др.), фоновый музыкальный плейлист с управлением громкостью.
+| | Проект | Стек |
+|---|---|---|
+| 🐦 | [Flappy Bird](https://github.com/SweetJS64/unity-flappy-bird) - 2D-аркада | `Zenject` `UniRx` `MVVM` `Yandex Ads SDK` |
+| 🏃 | [Lane Switch](https://sweetjs64.itch.io/running-sweetjs) · [GitHub](https://github.com/SweetJS64/unity-lane-switch) - 3D Playable Ad | `WebGL` `Object Pool` `State Machine` |
+| 👧 | [Run Girl](https://github.com/SweetJS64/unity-run-girl) - 2D бесконечный раннер | `Observer` `Object Pool` `Physics 2D` |
+| 🗼 | [Tower Defense Core](https://github.com/SweetJS64/untity-td-core) - Tower Defense | `Unity DOTS/ECS` `Burst Compiler` `VFX Graph` |
+| 🎮 | [Game Jam: Brackeys 2025.1](https://itch.io/jam/brackeys-13/rate/3349683) - 2D-рыбалка | командный проект, 7 дней |
 
 ---
 
