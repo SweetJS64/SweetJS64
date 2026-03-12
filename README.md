@@ -7,7 +7,7 @@
 | | Проект | Стек |
 |---|---|---|
 | 🐦 | [Flappy Bird](https://github.com/SweetJS64/unity-flappy-bird) - 2D-аркада | `Zenject` `UniRx` `MVVM` `Yandex Ads SDK` |
-| 🏃 | [Lane Switch](https://sweetjs64.itch.io/running-sweetjs) · [GitHub](https://github.com/SweetJS64/PlayableAds-LaneSwitch) - 3D Playable Ad | `WebGL` `Object Pool` `State Machine` |
+| 🏃 | [Lane Switch](https://github.com/SweetJS64/PlayableAds-LaneSwitch) · [itch.io](https://sweetjs64.itch.io/running-sweetjs) - 3D Playable Ad | `WebGL` `Object Pool` `State Machine` |
 | 👧 | [Run Girl](https://github.com/SweetJS64/unity-run-girl) - 2D бесконечный раннер | `Observer` `Object Pool` `Physics 2D` |
 | 🗼 | [Tower Defense Core](https://github.com/SweetJS64/untity-td-core) - Tower Defense | `Unity DOTS/ECS` `Burst Compiler` `VFX Graph` |
 | 🎮 | [Game Jam: Brackeys 2025.1](https://itch.io/jam/brackeys-13/rate/3349683) - 2D-рыбалка |  `Командный проект, 7 дней` |
