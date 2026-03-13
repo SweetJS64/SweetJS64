@@ -28,4 +28,4 @@
 
 ### 📬 Контакты
 
-[Telegram @SweetJS](https://t.me/SweetJS) · sweetjs164@gmail.com
+[Telegram @dssolod](https://t.me/dssolod) · dssolodkiy@gmail.com
