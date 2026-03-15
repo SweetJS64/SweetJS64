@@ -6,7 +6,7 @@
 
 | | Проект | Стек |
 |---|---|---|
-| 🐦 | [Flappy Bird](https://github.com/SweetJS64/unity-flappy-bird) - 2D-аркада | `Zenject` `UniRx` `MVVM` `Yandex Ads SDK` |
+| 🐦 | [Flappy Bird](https://github.com/SweetJS64/unity-flappy-bird) · [itch.io](https://sweetjs64.itch.io/flappyreplic) - 2D-аркада | `Zenject` `UniRx` `MVVM` `Yandex Ads SDK` |
 | 🏃 | [Lane Switch](https://github.com/SweetJS64/PlayableAds-LaneSwitch) · [itch.io](https://sweetjs64.itch.io/running-sweetjs) - 3D Playable Ad | `WebGL` `Object Pool` `State Machine` |
 | 👧 | [Run Girl](https://github.com/SweetJS64/unity-run-girl) - 2D бесконечный раннер | `Observer` `Object Pool` `Physics 2D` |
 | 🗼 | [Tower Defense Core](https://github.com/SweetJS64/untity-td-core) - Tower Defense | `Unity DOTS/ECS` `Burst Compiler` `VFX Graph` |
